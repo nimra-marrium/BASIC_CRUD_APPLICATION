@@ -1,0 +1,13 @@
+show schemas;
+drop database crud;
+create database crud;
+use crud;
+drop table user_data;
+create table user_data(
+id int primary key not null auto_increment,
+name varchar(50),
+flavour varchar(50),
+ingredients varchar(50),
+price varchar(50)
+);
+select * from user_data;
