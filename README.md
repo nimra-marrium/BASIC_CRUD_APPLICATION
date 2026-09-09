@@ -21,3 +21,5 @@ This project was created to practice and demonstrate the basic concepts of **CRU
 ---
 ### About the Project
 This is a beginner-friendly project that combines basic database operations with a bakery-themed user interface to make the application more engaging and easy to understand.
+
+Co-authored-by: AnsaAnwaar <AnsaAnwaar@users.noreply.github.com>
