@@ -1,5 +1,5 @@
-# Basic CRUD Application
-A simple **CRUD (Create, Read, Update, Delete) application** built to demonstrate the fundamental operations of managing data. The application uses a **small bakery-inspired theme** for its frontend, giving the project a simple and friendly visual style.
+# BakeBase
+A **CRUD (Create, Read, Update, Delete) application** built to demonstrate the fundamental operations of managing data. The application uses a **small bakery-inspired theme** for its frontend, giving the project a simple and friendly visual style.
 
 ## Features
 * **Create** - Add new bakery items
